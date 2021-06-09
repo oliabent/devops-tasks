@@ -1,0 +1,5 @@
+requests
+SQLAlchemy==1.3.12      
+PyMySQL==0.9.3
+sendgrid
+google-cloud-secret-manager
